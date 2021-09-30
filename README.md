@@ -1,3 +1,3 @@
 <div style="margin: auto;">
-  [![Lewis Hanson's Github Stats](https://github-readme-stats.vercel.app/api?username=lewis-hanson&theme=synthwave&show_icons=true)](https://github.com/lewis-hanson)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-hanson&theme=synthwave&show_icons=true" />
 </div>
