@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/lewis-hanson">
-      <img src="https://media.discordapp.net/attachments/895604205417553941/896092263002800158/sim1231.png?width=524&height=167" />
+      <img src="https://media.discordapp.net/attachments/895604205417553941/896109169743134750/indevewrvwervewrvx.png?width=740&height=167" />
    </a>
 </p>
 <p align="center">
