@@ -11,6 +11,7 @@
     <br>
     This is just where i post random stuff what i make, most of it is complete trash<br>
     and was done just for fun :)
+    <img src="https://media.discordapp.net/attachments/895604205417553941/895961470091821096/sim1111.png?width=600&height=226" />
 </p><br>
 
 
