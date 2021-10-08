@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-   <img src="https://media.discordapp.net/attachments/895604205417553941/895961470091821096/sim1111.png?width=600&height=226" /> 
+   <img src="https://media.discordapp.net/attachments/895604205417553941/895962798230736926/sim1111_2.png?width=626&height=91" /> 
 </p>
 
 
