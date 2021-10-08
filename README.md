@@ -4,7 +4,7 @@
    </a>
 </p>
 <p align="center">
-    <strong style="font-size: 30px">Hello there 👋</strong>
+    <strong><font size="+5">Hello there 👋</font></strong>
     <br>
     This is just where i post random stuff what i make, most of it is complete trash<br>
     and was done just for fun :)<br>
