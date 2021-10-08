@@ -1,6 +1,6 @@
 <p align="center">
    <a href="">
-      <img src="https://media.discordapp.net/attachments/895604205417553941/895963189316042782/output-onlinepngtools1.png?width=626&height=91" />
+      <img src="https://media.discordapp.net/attachments/895604205417553941/896017017054834698/output-onlinepngtools2.png?width=524&height=167" />
    </a>
 </p>
 <p align="center">
