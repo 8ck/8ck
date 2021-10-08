@@ -26,7 +26,7 @@
 <p align="center">
     <a href="https://github.com/8ck">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=8ck&theme=gotham&show_icons=true" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8ck&line_height=1&theme=gotham&show_icons=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8ck&line_height=0.8&theme=gotham&show_icons=true" />
     </a>
 </p><br>
 
