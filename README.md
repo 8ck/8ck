@@ -8,6 +8,7 @@
 
 <p align="center">
     <strong>Hello there 👋</strong>
+    <br>
     This is just where i post random stuff what i make, most of it is complete trash
     and was done just for fun :)
 </p><br>
